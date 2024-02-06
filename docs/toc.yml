@@ -1,4 +1,4 @@
-- name: Introduction
+- name: 安裝手冊
   href: introduction.md
 - name: 1) docfx
   href: docfx.md

@@ -5,7 +5,7 @@
 3. 頁面(3之1)  
 ![alt text](introduction/images/image-1.png)
 3. 頁面(3之2)  
-輸入電子帳號密碼, 要有憑證進行雙因子認證
+輸入電子帳號密碼, 要有憑證進行雙因子認證  
 ![alt text](introduction/images/image-2.png)
 3. 頁面(3之3)  
 ![alt text](introduction/images/image-3.png)

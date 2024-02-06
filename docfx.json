@@ -25,8 +25,8 @@
       "templates/modern_ex"
     ],
     "globalMetadata": {
-      "_appName": "KiloathBook",
-      "_appTitle": "KiloathBook",
+      "_appName": "Book Concords API",
+      "_appTitle": "Book Concords API",
       "_enableSearch": true,
       "pdf": false
     }
